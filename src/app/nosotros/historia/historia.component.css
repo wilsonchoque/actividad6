@@ -1,0 +1,19 @@
+.container{
+    margin: 10px auto;
+    display:grid;
+    
+}
+
+
+
+.texto h1{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.texto p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+
